@@ -1,0 +1,284 @@
+
+*{
+	scroll-behavior: smooth;
+
+}
+
+.mySlides {
+	display:none;
+}
+.home-page{
+	margin-top: 5px;
+	padding-bottom: 100px;
+}
+.logo{
+	
+	width: 80%;
+
+}
+
+.home-page-head{
+	font-size: 30px;
+	font-family: 'Alatsi';
+	color: #ff6600;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+.hr{
+	background-color: red;
+	width: 300px;
+	opacity: 0.5;
+	margin-top: -15px;
+}
+.home-page-text{
+	font-size: 12px;
+}
+/*Menu page*/
+
+/*Menu Box*/
+.menu-img{
+	width: 70px;
+	height: 70px;
+}
+.menu-txt{
+	font-size: 13px;
+	font-family: 'Alegreya Sans';
+}
+.menu-box{
+
+	background-color: white;
+	
+}
+.menu-head{
+	text-align: center;
+	margin-bottom: 20px;
+	font-family: 'Alegreya Sans';
+	font-weight: 200px;
+	font-size: 30px;
+}
+.menu-sub-head{
+	text-align: center;
+	font-family: 'Alegreya Sans';
+	font-size: 11px;
+}
+.ad-img{
+	margin-top: -40px;
+		width: 320px;
+
+}
+.box{
+	margin: 5px;
+	background-color: white;
+}
+
+.l-margin{
+	margin-left: -40px;
+
+}
+.menu-img{
+	
+	width: 120%;
+}
+
+.demo-content{
+
+	margin: 3px;
+        padding: 15px;
+        font-size: 18px;
+        
+        background: white;
+       border-radius: 5px;
+
+    }
+.demo-content.bg-alt{
+        background: white;
+    }
+
+.menu-sub-box{
+	width: 50%;
+}
+.menu-head-txt{
+	font-family: 'Alegreya Sans';
+	position: relative;
+	background-color: white;
+	margin-top: -15px;
+	font-size: 13px;
+
+}
+
+.end{
+	margin-left: 100px;
+	margin-top: 10px;
+	font-size: 12px;
+	color: red;
+
+}
+
+
+*{
+	scroll-behavior: smooth;
+}
+
+.mySlides {
+	display:none;
+}
+.home-page{
+	margin-top: 5px;
+}
+.logo{
+	margin-top: 30px;
+	width: 90%;
+
+
+}
+
+/*Menu Box*/
+.menu-img{
+	width: 80px;
+	height: 80px;
+}
+.menu-txt{
+	font-size: 13px;
+}
+.menu-box{
+
+	padding-top: 70px;
+	margin-top: 100px;
+	background-color: white;
+	
+}
+.menu-head{
+	text-align: center;
+	margin-bottom: 20px;
+	font-family: 'Alegreya SC';
+	font-weight: 200px;
+	font-size: 30px;
+	margin-top: 150px;
+}
+.menu-sub-head{
+	text-align: center;
+	font-family: 'Alegreya Sans SC';
+	font-size: 11px;
+}
+.ad-img{
+	margin-top: -40px;
+		width: 320px;
+
+}
+.box{
+	margin: 5px;
+	background-color: white;
+}
+
+.l-margin{
+	margin-left: -40px;
+
+}
+.menu-img{
+	
+	width: 120%;
+}
+
+.demo-content{
+
+	margin: 3px;
+        padding: 15px;
+        font-size: 18px;
+        
+        background: white;
+       border-radius: 5px;
+
+    }
+.demo-content.bg-alt{
+        background: white;
+    }
+
+.menu-sub-box{
+	width: 50%;
+}
+.menu-head-txt{
+
+	position: relative;
+	background-color: white;
+	margin-top: -15px;
+	font-size: 13px;
+
+}
+
+.end{
+	margin-left: 100px;
+	margin-top: 10px;
+	font-size: 12px;
+	color: red;
+
+}
+.gif-img{
+	width: 90%;
+}
+.office-kids-heading-txt {
+	margin-bottom: 50px;
+	transform: skewY(2deg);
+}
+
+.office-kids{
+	margin-top: 50px;
+	background-color: #f2f2f2;
+	padding-top: 50px;
+	padding-bottom: 100px;
+	transform: skewY(-2deg);
+}
+
+.office{
+	padding: 10px;
+	width: 250px;
+	height: 200px;
+	transform: skewY(2deg);
+}
+.office-btn{
+	margin-top: 10px;
+}
+.kids-room{
+	transform: skewY(2deg);
+	padding: 10px;
+	width: 250px;
+	height: 200px;
+	margin-top: 70px;
+}
+/*------------------Chairs--------------------*/
+
+
+.Living-Room{
+	margin-top: 70px;
+	padding-bottom: 40px;
+
+}
+.bg{
+	background-color: #F9FAFD;
+}
+
+.living-room-img{
+	width: 90%;
+}
+
+.margin-r{
+	margin: 10px;
+}
+
+.options-btn{
+	font-size: 12px;
+	margin: 10px;
+
+}
+.Living-Room-item-head{
+	margin-left: -2px;
+	font-size: 15px;
+	margin-top: 13px;
+	font-weight: 500;
+	font-family: 'ABeeZee';
+}
+
+.Living-Room-price{
+	font-size: 13px;
+	margin-top: -8px;
+	margin-left: -13px;
+}
